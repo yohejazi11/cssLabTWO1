@@ -30,6 +30,12 @@
     top: 50%;
 }
 
+.sub-header-image:hover {
+    transform: rotate(360deg);
+    transition: 0.3s;
+
+}
+
 .first-sub-image{
     background-image: url(https://early-wildflower-281.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb56a855-0c74-4a0d-84dc-3fb7c76ae0b3%2F1490b61c-8097-4d0d-90d1-19c4493c6574%2FSoupInfo.png?table=block&id=d55747aa-efbc-4afa-8e28-796a0ec8234c&spaceId=fb56a855-0c74-4a0d-84dc-3fb7c76ae0b3&width=770&userId=&cache=v2);
     height: 60px;
